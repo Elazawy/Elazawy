@@ -15,4 +15,9 @@ I'm a third-year Computer and Information student who enjoys exploring different
 ---
 [![](https://visitcount.itsvg.in/api?id=elazawy&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+**Live Projects**
+*[Online-Shop](https://online-shop-a3ajbvanhre6hpb3.francecentral-01.azurewebsites.net/)*
+Note: The website may take a few seconds to load on the first visit
+*[Kasper-Template](https://elazawy.github.io/HTML_and_CSS_Template_2/)*
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

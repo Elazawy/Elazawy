@@ -19,8 +19,9 @@ I'm a third-year Computer and Information student who enjoys exploring different
 # Live Projects
 
 ## 1. [Online Shop](https://online-shop-a3ajbvanhre6hpb3.francecentral-01.azurewebsites.net/)
-> **Note:** This website may take a few seconds to load on the first visit.
 
 ## 2. [Kasper Template](https://elazawy.github.io/HTML_and_CSS_Template_2/)
+
+## 3. [Leon Template](https://elazawy.github.io/HTML_and_CSS_Template_1/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

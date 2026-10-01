@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a third-year Computer and Information student who enjoys exploring different areas of technology. I’ve worked with C++, Python, HTML, CSS, JavaScript, Node.js, and SQL, and I like learning cloud and backend development.<br>I focus on improving my problem-solving skills and building real-world projects to grow as a developer.<br>
+I'm a fourth-year Computer and Information student who enjoys exploring different areas of technology. I’ve worked with C++, Python, HTML, CSS, JavaScript, Node.js, and SQL, and I like learning cloud and backend development.<br>I focus on improving my problem-solving skills and building real-world projects to grow as a developer.<br>
 
 
 ## 🌐 Socials:
